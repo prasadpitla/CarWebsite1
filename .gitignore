@@ -1,0 +1,7 @@
+# Raw source frames only (unconverted png/jpg clips, 330MB+)
+/frames/
+
+# System and logs
+.DS_Store
+Thumbs.db
+*.log
